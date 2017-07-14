@@ -2028,12 +2028,14 @@ yuno_fild03 382 331 yuno_fild02 19 340
 yuno_fild03 179 16 yuno_fild07 179 352
 yuno_fild03 178 15 yuno_fild07 179 351
 yuno_fild03 21 162 yuno_fild04 371 147
+yuno_fild03 215 382 yuno_fild06 218 33
 yuno_fild04 231 288 yuno 158 13
 yuno_fild04 374 82 yuno_fild03 20 79
 yuno_fild04 374 149 yuno_fild03 21 162
 yuno_fild04 42 370 yuno_fild05 61 33
 yuno_fild04 249 22 ein_fild06 255 358
 yuno_fild05 61 29 yuno_fild04 42 366
+yuno_fild06 214 27 yuno_fild03 215 375
 yuno_fild07 73 220 ein_fild06 332 176
 yuno_fild07 179 353 yuno_fild03 179 17
 yuno_fild07 352 292 yuno_fild08 27 275
